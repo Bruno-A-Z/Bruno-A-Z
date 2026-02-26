@@ -46,8 +46,8 @@ Banco de Dados:
 
 ## 📂 Projetos em destaque
 
-🔹 [Sistema X](https://github.com/FIAP-Global-Solution-2-SEM-2025/Java.git) – API REST
-🔹 [ Projeto Y ](https://github.com/FIAP-Global-Solution-2-SEM-2025/Front-End.git)– Aplicação React consumindo API  
+🔹 [JAVA](https://github.com/FIAP-Global-Solution-2-SEM-2025/Java.git) – API REST
+🔹 [REACT](https://github.com/FIAP-Global-Solution-2-SEM-2025/Front-End.git)– Aplicação React consumindo API  
 🔹 CRUD completo com autenticação  
 
 ---
