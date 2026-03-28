@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Bruno
 
-🎯 Desenvolvedor em busca de estágio na área de desenvolvimento
+🎯 Desenvolvedor em busca de estágio ou vaga jR na área de desenvolvimento de software
 
 💻 Atualmente estudando e desenvolvendo projetos com:
 - Java
