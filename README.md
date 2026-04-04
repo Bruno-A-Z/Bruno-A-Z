@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Bruno
 
-🎯 Desenvolvedor em busca de estágio ou vaga jR na área de desenvolvimento de software
+🎯 Desenvolvedor em busca de estágio ou vaga Junior na área de desenvolvimento de software
 
 💻 Atualmente estudando e desenvolvendo projetos com:
 - Java
@@ -14,9 +14,9 @@
 ## 🚀 Sobre mim
 
 Sou desenvolvedor focado em construir aplicações organizadas e bem estruturadas.
-Tenho estudado boas práticas como separação de camadas, organização de projeto e princípios da clean arquitetura.
+Tenho estudado boas práticas como separação de camadas, organização de projeto e princípios da clean architeture.
 
-Estou em constante evolução e buscando minha primeira oportunidade profissional na área.
+Estou em constante evolução e buscando minha primeira oportunidade corporativa na área.
 
 ---
 
@@ -30,6 +30,7 @@ Frontend:
 Backend:
 - Java
 - JPA
+- Quarkus(Lapidando conhecimentos)
 - Spring Boot(Aprendendo)
 - Python
 
